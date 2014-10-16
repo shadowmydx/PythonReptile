@@ -24,7 +24,7 @@ for ck in cookie:
 
 
 login = "shadowmydx"
-mypwd = "dbtxhsjhy"
+mypwd = "*********"
 
 
 values = {'csrfmiddlewaretoken':csrftoken,'login':login,'password':mypwd,'remember':'on'}
